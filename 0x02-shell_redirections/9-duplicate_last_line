@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n | < iacte >> iacte
+tail -l iacte >> iacte
